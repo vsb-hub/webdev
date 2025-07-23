@@ -26,3 +26,9 @@ console.log( booleanislogin);
 // "" -> false
 // "hello" -> true
 
+// *********************************Operations*********************************
+
+
+let value=3
+let neg_value=-value
+console.log(neg_value);
